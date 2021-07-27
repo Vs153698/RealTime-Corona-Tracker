@@ -1,0 +1,1 @@
+Total Number Of cases in ${country} is ${cases} and Total Number of Deaths ${deaths}, Total Number Of People Recovered is ${recovered}. Todays Confirmed Cases are ${todayconfirmed}, Number of Deaths Today ${todaydeath}

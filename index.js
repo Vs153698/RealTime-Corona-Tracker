@@ -85,5 +85,5 @@ function updateMap() {
         })
 }
 
-let interval = 1000000;
+let interval = 100;
 setInterval(updateMap,interval );
